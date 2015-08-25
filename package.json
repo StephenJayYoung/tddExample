@@ -1,0 +1,25 @@
+{
+  "name": "tddexample",
+  "version": "1.0.0",
+  "description": "a repo for messing around with tdd",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenJayYoung/tddExample.git"
+  },
+  "author": "Stephen Jay Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenJayYoung/tddExample/issues"
+  },
+  "homepage": "https://github.com/StephenJayYoung/tddExample#readme"
+}
